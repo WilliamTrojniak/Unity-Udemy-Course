@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 08a1cdc896264864d8573e650188351a, type: 3}
+  m_Name: StartingState
+  m_EditorClassIdentifier: 
+  storyText: "You're on your way to jail after being charged with robbing a bank.\r\nThe
+    vehicle you're in suddenly stops and the gaurds begin to transfer you to another
+    vehicle.\r\nYou notice that the attention's off you as the officers are handling
+    other criminals.\r\n\r\nDo you...\r\n\r\n1. Make a break for it?\r\nor\r\n2. Remain
+    where you are obediently?"
+  nextStates:
+  - {fileID: 11400000, guid: e1b148b95f02c664db87e7c7f2b54923, type: 2}
+  - {fileID: 11400000, guid: 6c7d601dcc787f2478b1eddcfbf68494, type: 2}

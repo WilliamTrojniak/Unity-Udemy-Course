@@ -1,0 +1,10 @@
+Scene:
+You're on your way to jail after being charged with robbing a bank.
+The vehicle you're in suddenly stops and the gaurds begin to transfer you to another vehicle.
+You notice that the attention's off you as the officers are handling other criminals.
+
+Do you...
+
+1. Make a break for it?
+or
+2. Remain where you are obediently?
